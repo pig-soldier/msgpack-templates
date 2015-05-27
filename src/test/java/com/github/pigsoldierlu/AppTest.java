@@ -1,4 +1,4 @@
-package com.github.pig-soldier;
+package com.github.pigsoldierlu;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
